@@ -1,7 +1,7 @@
 
-f= open('input','r')
-line=f.read()
-word=line.split()
+reads_input= open('input','r')
+the_input=f.read()
+word=line.split() 
 
 
 keywords=['int','float','double','if','else','elif']
